@@ -22,7 +22,7 @@ pip install flask scikit-learn pandas numpy
 ### Clone the Repository
 To clone the repository to your local machine, run the following command:
 ```bash
-git clone https://github.com/yourusername/Real-Estate-Price-Predictor-App.git
+git clone https://github.com/Raaed-Mirza/Real-Estate-Price-Predictor-App.git
 ```
 ```bash
 cd Real-Estate-Price-Predictor-App
