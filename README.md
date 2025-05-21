@@ -76,20 +76,3 @@ Open `app.html` in your browser. If you're using **VS Code**, right-click the fi
 
 > Enter a 3-bedroom, 2-bathroom house in Whitefield, Bengaluru with 1200 sqft — get an instant price estimate powered by machine learning.
 
----
-
-## 👨‍💻 Author
-
-Made with ❤️ by [Raaed Mirza](https://github.com/Raaed-Mirza)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙌 Contributions
-
-Feel free to fork, clone, and contribute to this project!
